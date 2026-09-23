@@ -199,7 +199,7 @@ Diagnostics / decision engine / approved fixes / verification / reports
 SQLite + portable logs and evidence
 ```
 
-See [UI architecture](docs/UI_ARCHITECTURE.md), [Phase 11 migration notes](docs/PHASE11_MIGRATION_NOTES.md), [safety model](docs/SAFETY_MODEL.md), [USB deployment](docs/USB_DEPLOYMENT.md), and [limitations](docs/LIMITATIONS.md).
+See [UI architecture](docs/UI_ARCHITECTURE.md), [safety model](docs/SAFETY_MODEL.md), [USB deployment](docs/USB_DEPLOYMENT.md), and [limitations](docs/LIMITATIONS.md).
 
 ## Portfolio screenshots
 
